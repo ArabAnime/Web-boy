@@ -2,7 +2,7 @@ import google.generativeai as genai
 from docx import Document
 from datetime import datetime
 
-API_KEY = 'AIzaSyDTEjUtNjsBUBpsiLEdzv54TP6CAH3hU8k'
+API_KEY = ''
 
 # Configure the API
 genai.configure(api_key=API_KEY)
